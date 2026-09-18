@@ -1,16 +1,13 @@
-## Hi there 👋
+# Javier Paredes Vélez
 
-<!--
-**javierjpv/javierjpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Software developer | Go (Golang) & Node.js**
 
-Here are some ideas to get you started:
+Especializado en arquitecturas backend de alto rendimiento, aplicando **Arquitectura Hexagonal** y **Domain-Driven Design (DDD)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Stack & Prácticas
+* **Lenguajes & Frontend:** Go (Golang), TypeScript, React
+* **Arquitectura:** Hexagonal Architecture, DDD, Event-Driven
+* **Calidad & Testing:** Unit testing, Integration Testing (Testcontainers), e2e testing
+
+---
+📫 **Contacto:** [paredesvelezjavierr@gmail.com](mailto:paredesvelezjavierr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/javier-paredes-v%C3%A9lez-610825155/)
